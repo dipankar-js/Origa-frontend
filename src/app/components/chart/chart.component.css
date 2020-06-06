@@ -2,3 +2,13 @@
   width: 700px;
   height: auto;
 }
+
+@media only screen and (max-width: 600px) {
+  .chart {
+    width: 100%;
+  }
+  p {
+    width: 90%;
+    margin-left: 20px;
+  }
+}

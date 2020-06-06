@@ -25,3 +25,15 @@ img {
   align-self: center;
   margin-left: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 350px;
+  }
+  .card-text {
+    margin-left: 20px;
+  }
+  .user-card {
+    margin-left: 20px;
+  }
+}
