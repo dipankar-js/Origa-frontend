@@ -1,0 +1,27 @@
+.card {
+  width: 400px;
+  margin-top: 50px;
+  align-self: center;
+}
+.card-text {
+  text-align: center;
+  font-size: 50px;
+  padding: 30px;
+  margin-bottom: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: red;
+}
+
+.user-card {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+img {
+  width: 120px;
+}
+
+.user-details {
+  align-self: center;
+  margin-left: 20px;
+}
